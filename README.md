@@ -9,5 +9,7 @@ Copy Script
 loadstring(game:HttpGet('https://darkscripts.space/scripts/b8c889b1dd.lua', true))()
 
 afk 24/7 farm gold , items , potions and more,
+sniperbooth added set price your willing to pay by user mistake
+auto sell pets set price ur willing to sell.
 dupe set on anything above 10billion add alt user account just as caution
 auto unlock and quest and more enjoy
